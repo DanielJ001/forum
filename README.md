@@ -1,4 +1,8 @@
-# 💻 Forum PHP
+<h1 align="center">
+  Forum PHP
+</h1>
+
+# 💻 Instalação
 Para configurar e iniciar o projeto é necessário realizar os seguintes passos: 
 
 1 - Baixar Xampp "https://www.apachefriends.org/download.html" </br>
