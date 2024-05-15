@@ -1,7 +1,6 @@
 # 💻 Forum PHP
 Para configurar e iniciar o projeto é necessário realizar os seguintes passos: 
 
-</br>
 1 - Baixar Xampp "https://www.apachefriends.org/download.html" </br>
 2 - Mover todos arquivos para o htdocs do Xampp, a pasta padrão é "C:\xampp\htdocs" </br>
 3 - Iniciar o Xampp, dar start no Apache e no MySQL </br> 
@@ -23,5 +22,5 @@ Para configurar e iniciar o projeto é necessário realizar os seguintes passos:
 - Processamento todo focalizado no server-side
 
 <div align="center">
-  <small>Desenvolvido por Daniel da Silva Junior</small>
+  <small></br>Desenvolvido por Daniel da Silva Junior</small>
 </div>
